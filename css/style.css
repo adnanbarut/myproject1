@@ -12,6 +12,13 @@ body {
   margin-left: 23%;
 }
 
+nav{
+  display: inline;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+}
+
 .name {
   color: white;
   text-align: center;
@@ -33,7 +40,7 @@ h2 {
   margin-left: 130px;
   position: absolute;
   top: 52%;
-  left: 53%;
-  transform: translate(-50%, -50%);
+  left: 45%;
+  /* transform: translate(-50%, -50%); */
 }
 
