@@ -11,18 +11,17 @@ body {
   margin-top: 140px;
 }
 
-
 #logo {
   float: left;
 }
 
-nav{
+nav {
   color: cornsilk;
   font-family: 'Times New Roman', Times, serif;
   font-size: 20px;
   padding: 50px;
   margin-left: 50%;
-  }
+}
 
 nav ul li {
   text-align: center;
@@ -33,13 +32,12 @@ nav ul li {
 .name {
   color: cornsilk;
   text-align: right;
-
 }
 
 h1 {
   font-size: 100px;
   font-family: 'Flamenco', cursive;
-  }
+}
 
 h2 {
   font-style: italic;
