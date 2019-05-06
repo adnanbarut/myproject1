@@ -17,7 +17,7 @@ body {
 }
 
 nav{
-  color: white;
+  color: cornsilk;
   font-family: 'Times New Roman', Times, serif;
   font-size: 20px;
   padding: 50px;
@@ -33,12 +33,13 @@ nav ul li {
 .name {
   color: white;
   text-align: right;
+  color: cornsilk;
 }
 
 h1 {
   font-size: 100px;
   font-family: 'Flamenco', cursive;
-}
+  }
 
 h2 {
   font-style: italic;
